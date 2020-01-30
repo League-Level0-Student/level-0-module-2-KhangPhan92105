@@ -12,7 +12,7 @@ public class Validation {
 		
 		Random randomMaker = new Random();
 		
-		int randomNumber = randomMaker.nextInt(5);
+		int randomNumber = randomMaker.nextInt(10);
 		
 		System.out.println(randomNumber);
 
